@@ -21,6 +21,7 @@
 
 ### 云向量数据库
 - **地址**: https://app.pinecone.io/
+- **OPENAI_KEY**: https://platform.openai.com/settings/organization/api-keys
 
 
 ## 使用说明
